@@ -1,0 +1,10 @@
+PyMuPDF
+sentence-transformers
+faiss-cpu
+nltk
+openai
+python-dotenv
+langdetect
+googletrans==4.0.0rc1
+requests
+deep-translator
