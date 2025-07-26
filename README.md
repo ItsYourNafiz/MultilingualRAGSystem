@@ -73,7 +73,7 @@ Context-aware reranking: Using a reranker model to reorder retrieved chunks coul
 ### Installation
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/ItsYourNafiz/MultilingualRAGSystem
 cd MultilingualRAGSystem
 pip install -r requirements.txt
 
